@@ -20,7 +20,7 @@
      - 지하철, 버스 정거장 에서의 광고 디스플레이
 
 - Idea Proposal 사전 녹화 영상:
-  - ..
+  - https://youtu.be/dtEqYNVXsBQ?si=XfJ7H0aR5m5pho9p
 
 - BLE-Based Smart Tag System 은 다양한 방식의 기능 확장을 통해 실생활의 불편을 해소할 수 있습니다
   - 매핑 테이블을 추가하여 더 많은 숫자의 태그들을 한 번에 변경할 수 있습니다
