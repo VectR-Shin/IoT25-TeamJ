@@ -9,7 +9,7 @@
   - 김문현 - overflow226@gmail.com
 
 - 프로젝트 개요 및 활용 사례
-  - BLE-Based Smart Tag System 은 휴대폰의 애플리케이션을 사용하여 원격으로, 원하는 시점에 출력합니다.
+  - BLE-Based Smart Tag System 은 휴대폰의 애플리케이션을 사용하여 원격으로, 원하는 정보를, 원하는 시점에 태그에 출력합니다.
   - BLE-Based Smart Tag System 은 다음과 같은 기능을 제공합니다
     -  BLE 기반의 원격 통신
     -  스마트 태그에 원하는 문장을 출력
