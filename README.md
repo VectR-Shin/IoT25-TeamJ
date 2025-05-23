@@ -1,7 +1,7 @@
 # IoT25-TeamJ
 사물인터넷 개론 팀J
 
-- 프로젝트 명: BLE-Based Smart Tag System
+- 프로젝트명: BLE-Based Smart Tag System
 
 - 팀원 정보:
   - 신인섭 - vectr.shin@gmail.com
